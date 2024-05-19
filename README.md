@@ -2,7 +2,7 @@
 Global super store Sales Analysis
 
 1. Pie Chart for Percentage of Shipping Based on Ship Mode
-2. 
+ 
 Purpose: To understand the distribution of shipping methods used in fulfilling orders.
 
 Explanation:
