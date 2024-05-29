@@ -1,6 +1,10 @@
 # PowerBI_GlobalSuperStore
 Global super store Sales Analysis
 
+Please check the link below for the video presentation:
+
+https://drive.google.com/drive/folders/1QCGAI3l_j4tFkfcMYUT8qSsZ3JR45wZx
+
 1. Pie Chart for Percentage of Shipping Based on Ship Mode
  
 Purpose: To understand the distribution of shipping methods used in fulfilling orders.
